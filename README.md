@@ -1,5 +1,7 @@
 # Portofolio Digital LK 2 — PPG Prajabatan BK
 
+**Situs langsung: <https://zonkdbr.github.io/Seminar-PPG-UTS-Porto/>**
+
 Portofolio Lembar Kerja 2 milik **Fahira Firzha Wianda** (NIM 26960002, IKIP Siliwangi,
 PPL di SMA Negeri 1 Cisarua): refleksi 4C, analisis artefak, dan kaitan praktis dari enam
 mata kuliah PPG Prajabatan Bimbingan dan Konseling.
@@ -44,8 +46,9 @@ git commit -m "..."
 git push
 ```
 
-Settings → Pages → Source: `main`, folder `/ (root)`. Pages menyebar ulang sekitar satu
-menit; periksa lewat jendela incognito karena Pages menyimpan cache cukup agresif.
+Settings → Pages → Source: `main`, folder `/ (root)` — sudah aktif. Pages menyebar ulang
+sekitar satu menit; periksa lewat jendela incognito karena Pages menyimpan cache cukup
+agresif.
 
 ## Catatan privasi
 
